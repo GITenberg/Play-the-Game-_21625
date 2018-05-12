@@ -1,0 +1,29 @@
+_repo: Play-the-Game-_21625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, Ruth Comfort
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '9175'
+    url: http://www.gutenberg.org/2009/agents/9175
+    wikipedia: http://www.wikipedia.org/wiki/Ruth_Comfort_Mitchell_Young
+description: ''
+gutenberg_issued: '2007-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Love stories'
+title: Play the Game!
+url: http://www.gutenberg.org/ebooks/21625
